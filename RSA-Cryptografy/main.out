@@ -1,0 +1,10 @@
+\BOOKMARK [1][-]{section.2}{Γενικό Πλαίσιο}{}% 1
+\BOOKMARK [2][-]{subsection.2.1}{BIGNUM\040APIs}{section.2}% 2
+\BOOKMARK [2][-]{subsection.2.2}{Παράδειγμα}{section.2}% 3
+\BOOKMARK [1][-]{section.3}{Δραστηριότητες Εργαστηρίου}{}% 4
+\BOOKMARK [2][-]{subsection.3.1}{Δραστηριότητα 1: Δηµιουργώντας το ιδιωτικό κλειδί}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.2}{Δραστηριότητα 2: Κρυπτογράφηση µηνύµατος}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.3}{Δραστηριότητα 3: Αποκρυπτογράφηση µηνύµατος}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.4}{Δραστηριότητα 4: Υπογραφή µηνύµατος}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.5}{Δραστηριότητα 5: Επαλήθευση Υπογραφής}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.6}{Δραστηριότητα 6: Μη αυτόµατη επαλήθευση πιστοποιητικού X.509}{section.3}% 10
