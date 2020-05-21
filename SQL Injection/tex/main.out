@@ -1,0 +1,10 @@
+\BOOKMARK [1][-]{section.1}{Εξοικείωση με τίς εντολές SQL}{}% 1
+\BOOKMARK [1][-]{section.2}{Επίθεση SQL Injection σε εντολές SELECT}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Επίθεση SQL Injection από την ιστοσελίδα}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Επίθεση SQL Injection από τη γραμμή εντολών}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Προσάρτηση μιας νέας δήλωσης SQL}{section.2}% 5
+\BOOKMARK [1][-]{section.3}{Επίθεση SQL Injection σε εντολή UPDATE}{}% 6
+\BOOKMARK [2][-]{subsection.3.1}{Τροποποιήστε το δικό σας μισθό}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.2}{Τροποποίηση μισθού άλλων υπαλλήλων}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.3}{Τροποποίηση του κωδικού πρόσβασης άλλων υπαλλήλων}{section.3}% 9
+\BOOKMARK [1][-]{section.4}{Αντίμετρα - Προετοιμασμένη δήλωση \(Prepared Statement\)}{}% 10

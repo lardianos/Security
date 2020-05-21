@@ -1,0 +1,11 @@
+\babel@toc {greek}{}
+\contentsline {section}{\numberline {1}Εξοικείωση με τίς εντολές SQL}{5}{section.1}%
+\contentsline {section}{\numberline {2}Επίθεση SQL Injection σε εντολές SELECT}{8}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Επίθεση SQL Injection από την ιστοσελίδα}{8}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Επίθεση SQL Injection από τη γραμμή εντολών}{9}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Προσάρτηση μιας νέας δήλωσης SQL}{11}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Επίθεση SQL Injection σε εντολή UPDATE}{12}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Τροποποιήστε το δικό σας μισθό}{12}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Τροποποίηση μισθού άλλων υπαλλήλων}{14}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Τροποποίηση του κωδικού πρόσβασης άλλων υπαλλήλων}{15}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Αντίμετρα - Προετοιμασμένη δήλωση (Prepared Statement)}{19}{section.4}%
