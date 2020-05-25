@@ -1,0 +1,8 @@
+\babel@toc {greek}{}
+\contentsline {section}{\numberline {1}Εμφάνιση μηνύματος ειδοποίησης (alert)}{5}{section.1}%
+\contentsline {section}{\numberline {2}Εμφάνιση μηνύματος με τα Session Cookies}{11}{section.2}%
+\contentsline {section}{\numberline {3}Κλοπή cookies από το μηχάνημα του θύματος}{13}{section.3}%
+\contentsline {section}{\numberline {4}Πώς γίνεστε φίλοι του θύματος}{15}{section.4}%
+\contentsline {section}{\numberline {5}Τροποποιώντας το προφίλ του θύματος}{19}{section.5}%
+\contentsline {section}{\numberline {6}Αυτό-πολλαπλασιαζόμενο XSS worm}{24}{section.6}%
+\contentsline {section}{\numberline {7}Αντίμετρα}{33}{section.7}%
