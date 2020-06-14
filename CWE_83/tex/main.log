@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2020.4.3)  14 JUN 2020 19:53
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2020.4.3)  14 JUN 2020 20:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -860,9 +860,9 @@ butes onmouseover,
  []
 
 (./chapters/chapter1/chapter1.tex [5]
-Overfull \hbox (6.23866pt too wide) in paragraph at lines 16--18
+Overfull \hbox (2.77066pt too wide) in paragraph at lines 16--18
 \TU/GFSDidot(0)/m/n/12 Η συγκεκριμένοι τύποι ευπαθείας (CVE-2004-1935 και CVE-2
-005-0945)[][][][][]
+005-0945)
  []
 
 [6]
@@ -897,9 +897,9 @@ File: image/8.PNG Graphic file (type bmp)
 <image/8.PNG>
 File: image/10.PNG Graphic file (type bmp)
 <image/10.PNG>
-[8]
 File: image/11.PNG Graphic file (type bmp)
 <image/11.PNG>
+[8]
 File: image/12.PNG Graphic file (type bmp)
 <image/12.PNG>
 File: image/13.PNG Graphic file (type bmp)
@@ -910,9 +910,9 @@ File: image/15.PNG Graphic file (type bmp)
 <image/15.PNG>
 File: image/16.PNG Graphic file (type bmp)
 <image/16.PNG>
- [9]
 File: image/17.PNG Graphic file (type bmp)
 <image/17.PNG>
+ [9]
 File: image/18.PNG Graphic file (type bmp)
 <image/18.PNG>
 File: image/19.PNG Graphic file (type bmp)
