@@ -8,7 +8,7 @@
 \subsection{Περιγραφή της κοινής αδυναμίας CWE-83}
 %Aferesi kenou arxis paragrafou
 \noindent
-Ο συγκεκριμένος τύπος αδυναμίας περιγράφει την ευπάθεια μερικών ιστοτόπων που επιτρέπουν την εκτέλεση κώδικα JavaScript μέσω των attributes διάφορων html tags όπως τα onmouseover, onload,  onerror, style. Το οποίο επιτυγχάνεται λόγω του ότι δεν φιλτράρουν, εξουδετερώνουν την JavaScript η τα URIs από τα διαφορά επικίνδυνα attributes είτε το κάνουν εσφαλμένα.
+Ο συγκεκριμένος τύπος αδυναμίας περιγράφει την ευπάθεια μερικών ιστοτόπων που επιτρέπουν την εκτέλεση κώδικα JavaScript μέσω των attributes διάφορων html tags όπως τα onmouseover, onload,  onerror, style. Αυτό επιτυγχάνεται λόγω του ότι δεν φιλτράρουν, εξουδετερώνουν την JavaScript ή τα URIs από τα διαφορά επικίνδυνα attributes είτε το κάνουν εσφαλμένα.
 
 \noindent
 Μερικά παραδείγματα από ευπάθειες που έχουν παρατηρηθεί είναι τα παρακάτω:
@@ -29,4 +29,4 @@
 %Εμείς θα αναλύσουμε τo CVE-2004-1935 που περιγράφει μια ευπάθεια σε e-mail attachment που σου επιτρέπει να χρησιμοποιήσεις JavaScript μέσω των attributes onload, onmouseover σε διαφορά html tags και το CVE-2005-0945 που περιγράφει μια ευπάθεια του comment section ενός website, που επιτρέπει την προσθήκη κώδικα JavaScript στα attribute onmouseover, onload των html tags img, link και mail.
 \noindent
 \footnote{Αλλαγή} Στην παρούσα εργασία θα αναλύσουμε τα CVE-2004-1935 και CVE-2005-0945. 
-Το CVE-2004-1935 περιγράφει μια ευπάθεια σε e-mail attachment η οποία επιτρέπει να χρησιμοποιήσεις JavaScript μέσω των attributes onload, onmouseover σε διάφορα HTML tags. Ενώ το  CVE-2005-0945 περιγράφει μια ευπάθεια του comment section ενός website η οποία επιτρέπει την προσθήκη κώδικα4 Javascript στα attributes onmouseover, onload των html tags img, link και mail.
+Το CVE-2004-1935 περιγράφει μια ευπάθεια στο e-mail attachment η οποία επιτρέπει να χρησιμοποιήσεις JavaScript μέσω των attributes onload, onmouseover σε διάφορα HTML tags. Ενώ το  CVE-2005-0945 περιγράφει μια ευπάθεια του comment section ενός website η οποία επιτρέπει την προσθήκη κώδικα Javascript στα attributes onmouseover, onload των html tags img, link και mail.
