@@ -1,0 +1,29 @@
+% Writed by: Stavros Papantonakis
+%
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+%
+\setcounter{chapter}{1}
+\section{Εισαγωγή}
+\subsection{Περιγραφή της κοινής αδυναμίας}
+%Aferesi kenou arxis paragrafou
+\noindent
+Ο συγκεκριμένος τύπος αδυναμίας περιγράφει την ευπάθεια μερικών ιστοτόπων που επιτρέπουν την εκτελέσει κώδικα JavaScript μέσω των attributes διάφορων html tags οπός τα onmouseover, onload,  onerror, style. Το οποίο επιτυγχάνεται λόγο του ότι δεν φιλτράρουν, εξουδετερώνουν την JavaScript η τα URIs από τα διαφορά επικίνδυνα attributes είτε το κάνουν εσφαλμένα.
+
+\noindent
+Μερικά παραδείγματα από ευπάθειες που έχουν παρατηρηθεί είναι τα παρακάτω
+
+\begin{itemize}
+	\item CVE-2001-0520 Bypass filtering of SCRIPT tags using onload in BODY, href in A, BUTTON, INPUT, and others.
+	\item CVE-2002-1493 guestbook XSS in STYLE or IMG SRC attributes. 
+	\item CVE-2002-1965 JavaScript in onerror attribute of IMG tag. 
+	\item CVE-2002-1495 XSS in web-based email product via onmouseover event. 
+	\item CVE-2002-1681 XSS via script in <P> tag. 
+	\item CVE-2004-1935 Onload, onmouseover, and other events in an e-mail attachment. 
+	\item CVE-2005-0945 Onmouseover and onload events in img, link, and mail tags. 
+	\item CVE-2003-1136 JavaScript in onmouseover attribute in e-mail address or URL. 
+	
+\end{itemize}
+
+\noindent
+Εμείς θα αναλύσουμε τo CVE-2004-1935 που περιγράφει μια ευπάθεια σε e-mail attachment που σου επιτρέπει να χρησιμοποιήσεις JavaScript μέσω των attributes onload, onmouseover σε διαφορά html tags και το CVE-2005-0945 που περιγράφει μια ευπάθεια του comment section ενός website, που επιτρέπει την προσθήκη κώδικα JavaScript στα attribute onmouseover, onload των html tags img, link και mail.

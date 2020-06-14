@@ -1,0 +1,30 @@
+\BOOKMARK [1][-]{section.1.1}{Εισαγωγή}{}% 1
+\BOOKMARK [2][-]{subsection.1.1.1}{Περιγραφή της κοινής αδυναμίας}{section.1.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Σύνδεση με την Θεματολογία των ασκήσεων}{}% 3
+\BOOKMARK [1][-]{section.1.3}{Τεχνική περιγραφή και ανάλυση με παραδείγματα}{}% 4
+\BOOKMARK [2][-]{subsection.1.3.1}{Τεχνική περιγραφή}{section.1.3}% 5
+\BOOKMARK [2][-]{subsection.1.3.2}{Παραδείγματα}{section.1.3}% 6
+\BOOKMARK [2][-]{subsection.1.3.3}{Ενναλακτική σύνταξη XSS}{section.1.3}% 7
+\BOOKMARK [2][-]{subsection.1.3.4}{Χρήση XSS μέσω κωδικοποιημένου URI}{section.1.3}% 8
+\BOOKMARK [2][-]{subsection.1.3.5}{XSS εικόνα χρησιμοποιώντας JavaScript directive}{section.1.3}% 9
+\BOOKMARK [2][-]{subsection.1.3.6}{Χρήση εισαγωγικά και ερωτηματικά}{section.1.3}% 10
+\BOOKMARK [2][-]{subsection.1.3.7}{Χρήση case insensitive γραφής}{section.1.3}% 11
+\BOOKMARK [2][-]{subsection.1.3.8}{Χρήση HTML χαρακτήρων}{section.1.3}% 12
+\BOOKMARK [2][-]{subsection.1.3.9}{Χρήση του χαρακτήρα \(`\)}{section.1.3}% 13
+\BOOKMARK [2][-]{subsection.1.3.10}{Λάθος σύνταξη HTML tags}{section.1.3}% 14
+\BOOKMARK [2][-]{subsection.1.3.11}{Λάθος σύνταξη HTML IMG tag}{section.1.3}% 15
+\BOOKMARK [2][-]{subsection.1.3.12}{fromCharCode}{section.1.3}% 16
+\BOOKMARK [2][-]{subsection.1.3.13}{Χρίση του χαρακτήρα \(#\) στο SRC attribute }{section.1.3}% 17
+\BOOKMARK [2][-]{subsection.1.3.14}{Κενό SRC attribute}{section.1.3}% 18
+\BOOKMARK [2][-]{subsection.1.3.15}{Χρήση tag με παράληψη του SRC attribute}{section.1.3}% 19
+\BOOKMARK [2][-]{subsection.1.3.16}{Χρήση του attribute onerror}{section.1.3}% 20
+\BOOKMARK [2][-]{subsection.1.3.17}{Χρήση του attribute onerror με κωδικοποιημένο script string}{section.1.3}% 21
+\BOOKMARK [2][-]{subsection.1.3.18}{Κωδικοποίηση JavaScript Directive με δεκαδικούς html χαρακτήρες}{section.1.3}% 22
+\BOOKMARK [2][-]{subsection.1.3.19}{Κωδικοποίηση JavaScript Directive με δεκαδικούς html χαρακτήρες χωρίς ερωτηματικά }{section.1.3}% 23
+\BOOKMARK [2][-]{subsection.1.3.20}{Κωδικοποίηση JavaScript Directive με δεκαεξαδικούς html χαρακτήρες}{section.1.3}% 24
+\BOOKMARK [1][-]{section.1.4}{Περιστατικά και συνέπειες που σχετίζονται με αυτή την αδυναμία}{}% 25
+\BOOKMARK [2][-]{subsection.1.4.1}{Περιστατικά}{section.1.4}% 26
+\BOOKMARK [2][-]{subsection.1.4.2}{CVE-2004-1935}{section.1.4}% 27
+\BOOKMARK [2][-]{subsection.1.4.3}{CVE-2005-0945}{section.1.4}% 28
+\BOOKMARK [1][-]{section.1.5}{Αντιμετώπιση της αδυναμίας}{}% 29
+\BOOKMARK [1][-]{chapter*.5}{Βιβλιογραφία}{}% 30
